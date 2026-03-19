@@ -66,7 +66,7 @@ if (isButterchurnSupported()) {
 }
 ```
 
-## Integrations
+[## Integrations
 * [Webamp](https://github.com/captbaritone/webamp), the fantastic reimplementation of Winamp 2.9 in HTML5 and Javascript, built by [captbaritone](https://github.com/captbaritone)
 * [Butterchurn Extension](https://chrome.google.com/webstore/detail/butterchurn-music-visuali/jfdmelgfepjcmlljpdeajbiiibkehnih), use Butterchurn to visualize the audio from any page
 * [Rekt Networks](https://nightride.fm/#Mathdrop), Live DJs, Archives & Exclusive Releases, built by [Zei](https://twitter.com/TheRektNetwork)
@@ -74,8 +74,8 @@ if (isButterchurnSupported()) {
 * [pasteur](https://www.pasteur.cc/), trippy videos generated from your music, built by [markneub](https://github.com/markneub)
 * [ChromeAudioVisualizerExtension](https://chrome.google.com/webstore/detail/audiovisualizer/bojhikphaecldnbdekplmadjkflgbkfh), put on some music and turn your browsing session into a party! built by [afreakk](https://github.com/afreakk)
 * [Karaoke Forever](https://www.karaoke-forever.com), an open karaoke party system, built by [bhj](https://github.com/bhj)
-* [Syqel](https://syqel.com/), the World's Best AI Powered Music Visualizer
-
+* [Syqel](https://syqel.com/), the World's Best AI Powered Music Visualizer](https://syqel.com/)
+* [MangoWave](https://mangowave.app), a free browser-based audio visualizer for system audio, local files, or microphone - no install, no signup, no ads, built by [Louis-Mascari](https://github.com/Louis-Mascari)
 
 ## Thanks
 
